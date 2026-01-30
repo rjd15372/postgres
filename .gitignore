@@ -47,3 +47,6 @@ lib*.pc
 /*.typedefs
 /contrib/*/regression.diffs
 /contrib/*/regression.out
+
+# vscode
+.cache
