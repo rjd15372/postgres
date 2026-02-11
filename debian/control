@@ -16,8 +16,8 @@ Build-Depends:
  dpkg-dev (>= 1.16.1~),
  flex,
  libcurl4,
- libcurl4-openssl-dev
- curl
+ libcurl4-openssl-dev,
+ curl,
  gdb <!nocheck>,
  gettext,
  krb5-multidev,
